@@ -1,3 +1,3 @@
 # hello-react-xr
 
-Created with CodeSandbox
+A starter project for building WebXR apps with React
